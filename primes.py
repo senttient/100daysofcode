@@ -1,4 +1,3 @@
-
 number=[]
 primes=2
 def file_writer(primes):
