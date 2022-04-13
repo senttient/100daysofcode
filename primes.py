@@ -19,6 +19,7 @@ def prime_checker(number):
         prime=number
         file_writer(prime)
 
+
 lower=int(input("what is the lower end of your range?\n "))
 upper=int(input('what is the upper end of you range?\n'))
 for n in range(lower,upper):
