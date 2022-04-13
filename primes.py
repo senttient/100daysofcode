@@ -1,6 +1,3 @@
-### this is my version of the prime generator 
-# I wanted the ability to run through all the primes in a range of my choosing
-# then once a prime is identified it is writen to a hard coded file###
 
 number=[]
 primes=2
